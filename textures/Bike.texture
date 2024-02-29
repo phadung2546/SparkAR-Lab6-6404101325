@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Bike",
+  "identifier": "texture:131417-83f7569d-e15e-4c7d-b224-8a81d307752f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4397fd10a0022d2f8940cf9845deb349",
+  "assetLocator": "textures/Bike.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 260,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 263,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4397fd10a0022d2f8940cf9845deb349",
+      "colorCount": 11855,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.6400630797434284,
+      "pixelsHigh": 260,
+      "pixelsWide": 263
+    }
+  ]
+}

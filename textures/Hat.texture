@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Hat",
+  "identifier": "texture:132673-83f7569d-e15e-4c7d-b224-8a81d307752f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1f8c4c63ea240437c114098acb7632c5",
+  "assetLocator": "textures/Hat.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 73,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 253,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1f8c4c63ea240437c114098acb7632c5",
+      "colorCount": 4955,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.026168388560693,
+      "pixelsHigh": 73,
+      "pixelsWide": 253
+    }
+  ]
+}
